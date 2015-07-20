@@ -16,7 +16,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     private static String TAG = MainActivity.class.getSimpleName();
-
+ 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
